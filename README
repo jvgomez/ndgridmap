@@ -1,0 +1,5 @@
+Sources of the n-dimensional gridmap formulation and generalization, and a possible, efficient implementation (taken from my [Fast Marching nDGridMap](https://github.com/jvgomez/fastmarching/blob/master/ndgridmap/ndgridmap.hpp))
+
+This LaTeX document is ready to be compiled with PDFLatex.
+
+All the sources are included so that anyone can fix/improve the document.
